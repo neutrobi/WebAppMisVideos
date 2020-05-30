@@ -1,0 +1,10 @@
+SMAP
+mm_jsp.java
+JSP
+*S JSP
+*F
++ 0 mm.jsp
+WEB-INF/mm.jsp
+*L
+5,14:44
+*E
